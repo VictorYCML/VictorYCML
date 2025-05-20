@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 
+git gud.
+🔭 I’m currently working on trying to a better person and use more social media.
+🌱 I’m currently learning how to use git and github, angular and .NET.
+👯 I’m looking to collaborate on challenging projects.
+🤔 I’m looking for help with better understanding about clean code, better practice and how to do things the right way.
+💬 Ask me about what game im good at(none xD).
+📫 How to reach me: you can contact me by e-mail: contato@etheralsolutions.com.br
+😄 Pronouns: he/him
+⚡ Fun fact: i like a lot to play games and learn new things to be independent and do everything by myself.
 
 <!--
 **VictorYCML/VictorYCML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
